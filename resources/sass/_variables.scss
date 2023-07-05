@@ -1,0 +1,33 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+$blue:    #d4a4eb; //Primary
+$indigo:  #6610f2;
+$purple:  #6f42c1;
+$pink:    #d63384;
+$red:     #dc3545; //danger
+$orange:  #fd7e14;
+$yellow:  #ffc107; //warning
+$green:   #198754; //success
+$teal:    #20c997;
+$cyan:    #0dcaf0; //cyan
+
+// Background colors
+// $bg-primary:         #007bff;
+$bg-secondary:       #05cc41;
+$bg-success:         #28a745;
+$bg-info:            #17a2b8;
+$bg-warning:         #ffc107;
+$bg-danger:          #dc3545;
+$bg-light:           #f8f9fa;
+$bg-dark:            #343a40;
+
+.custom-color1 {
+    background-color: #f8dcff; /* Replace with your desired color value */
+  }
+
